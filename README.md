@@ -10,8 +10,8 @@ Bu proje şunları içermektedir, **Mamografi Radyoloji Raporlarından BI-RADS S
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/ozanguneyli/Mamografi_Raporlarından_Bi_Rads_Sınıflandırması_Ve_VİÇ.git
-cd Mamografi_Raporlarından_Bi_Rads_Sınıflandırması_Ve_VİÇ
+git clone Mamografi_Raporlarindan_Bi_Rads_Siniflandirmasi_Ve_NER.git
+cd Mamografi_Raporlarindan_Bi_Rads_Siniflandirmasi_Ve_NER
 ```
 
 
@@ -25,7 +25,7 @@ cd Mamografi_Raporlarından_Bi_Rads_Sınıflandırması_Ve_VİÇ
 
 ```
 
-![Confussion Matrix](bi_rads_confusion_matrix.png)
+![Confussion Matrix](images/bi_rads_confusion_matrix.png)
 
 ## 📊 Sonuçlar - Varlık İsmi Çıkarımı
 ```
@@ -34,5 +34,5 @@ cd Mamografi_Raporlarından_Bi_Rads_Sınıflandırması_Ve_VİÇ
 
 ```
 
-![Confussion Matrix](ner_confusion_matrix.png)
-![Confussion Matrix](ner_loss_and_f1.png)
+![Confussion Matrix](images/ner_confusion_matrix.png)
+![Confussion Matrix](images/ner_loss_and_f1.png)
