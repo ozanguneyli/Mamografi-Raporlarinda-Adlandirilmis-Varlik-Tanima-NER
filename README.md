@@ -36,3 +36,7 @@ cd Mamografi_Raporlarindan_Bi_Rads_Siniflandirmasi_Ve_NER
 
 ![Confussion Matrix](images/ner_confusion_matrix.png)
 ![Confussion Matrix](images/ner_loss_and_f1.png)
+
+## License
+
+[MIT License](LICENSE)
