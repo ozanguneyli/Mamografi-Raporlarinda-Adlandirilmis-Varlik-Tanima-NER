@@ -10,8 +10,8 @@ Bu proje şunları içermektedir, **Mamografi Radyoloji Raporlarından BI-RADS S
 
 ## 🛠️ Installation
 ```bash
-git clone Mamografi_Raporlarindan_Bi_Rads_Siniflandirmasi_Ve_NER.git
-cd Mamografi_Raporlarindan_Bi_Rads_Siniflandirmasi_Ve_NER
+git clone Mamografi-Raporlarindan-Bi-Rads-Siniflandirmasi-Ve-NER.git
+cd Mamografi-Raporlarindan-Bi-Rads-Siniflandirmasi-Ve-NER
 ```
 
 
