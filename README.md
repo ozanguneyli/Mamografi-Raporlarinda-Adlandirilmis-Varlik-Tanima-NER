@@ -18,13 +18,15 @@ cd Mamografi-Raporlarindan-Bi-Rads-Siniflandirmasi-Ve-NER
 ## 📊 Sonuçlar - Bi Rads Sınıflandırma
 - **Metrics Bar Chart**: Bar chart comparing key performance metrics (Precision, recall, F1, test F1 score)
 
-
 ![Metrics](images/metrics_plot.png)
+
 - **Confusion Matrix**: Visual representation of the model's true positives, false positives, true negatives, and false negatives
 
 ![Confussion Matrix](images/bi_rads_confusion_matrix.png)
 
 ## 📊 Sonuçlar - Varlık İsmi Çıkarımı
+
+- **F1 Score Bar Chart**: Bar chart shows key performance metric F1 Score
 
 ![F1-Score](images/f1_score_plot.png)
 
