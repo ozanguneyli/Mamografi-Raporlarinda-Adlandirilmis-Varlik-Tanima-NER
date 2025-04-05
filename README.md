@@ -16,23 +16,14 @@ cd Mamografi-Raporlarindan-Bi-Rads-Siniflandirmasi-Ve-NER
 
 
 ## 📊 Sonuçlar - Bi Rads Sınıflandırma
-```
--Key Metrics:
--Precision Weighted Avg: 0.97
--Recall Weighted Avg: 0.0.97
--F1 Score Weighted Avg: 0.97
--Test F1 Score: 0.9666
 
-```
+![Metrics](images/metrics_plot.png)
 
 ![Confussion Matrix](images/bi_rads_confusion_matrix.png)
 
 ## 📊 Sonuçlar - Varlık İsmi Çıkarımı
-```
--Key Metrics:
--F1 Score Weighted Avg: 0.9529
 
-```
+![F1-Score](images/f1_score_plot.png)
 
 ![Confussion Matrix](images/ner_confusion_matrix.png)
 ![Confussion Matrix](images/ner_loss_and_f1.png)
