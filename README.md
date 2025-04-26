@@ -1,28 +1,17 @@
-# Radyoloji Raporlarından BI-RADS Sınıflandırma ve Varlık İsmi Çıkarımı 
-
-Bu proje şunları içermektedir, **Mamografi Radyoloji Raporlarından BI-RADS Sınıflandırması** ve **Mamografi Radyoloji Raporlarından Varlık İsmi Çıkarımı**.
+# Mamografi Raporlarında Adlandırılmış Varlık Tanıma (NER)
 
 ## 📌 Özellikler
 - **Türkçeye Özel Ön İşleme**: Tıbbi metinler için özel veri temizleme ve normalleştirme..
 - **Birçok Model Test Edildi**: En iyi doğruluk oranına sahip model seçildi.
-- **Çok Sınıflı BI-RADS Sınıflandırması**: BI-RADS 0-5 arası kategorileri sınıflandırır.
 - **Varlık İsmi Çıkarımı (NER)**: Hasta bilgileri, hastalıklar ve semptomları algılar.
+
 
 ## 🛠️ Installation
 ```bash
-git clone Mamografi-Raporlarindan-Bi-Rads-Siniflandirmasi-Ve-NER.git
-cd Mamografi-Raporlarindan-Bi-Rads-Siniflandirmasi-Ve-NER
+git clone Mamografi-Raporlarında-Adlandırılmış-Varlık-Tanıma-NER.git
+cd Mamografi-Raporlarında-Adlandırılmış-Varlık-Tanıma-NER
 ```
 
-
-## 📊 Sonuçlar - Bi Rads Sınıflandırma
-- **Metrics Bar Chart**: Bar chart comparing key performance metrics (Precision, recall, F1, test F1 score)
-
-![Metrics](images/metrics_plot.png)
-
-- **Confusion Matrix**: Visual representation of the model's true positives, false positives, true negatives, and false negatives
-
-![Confussion Matrix](images/bi_rads_confusion_matrix.png)
 
 ## 📊 Sonuçlar - Varlık İsmi Çıkarımı
 
