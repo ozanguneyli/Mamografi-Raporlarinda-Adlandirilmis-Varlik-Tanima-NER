@@ -8,8 +8,8 @@
 
 ## 🛠️ Installation
 ```bash
-git clone Mamografi-Raporlarında-Adlandırılmış-Varlık-Tanıma-NER.git
-cd Mamografi-Raporlarında-Adlandırılmış-Varlık-Tanıma-NER
+git clone Mamografi-Raporlarinda-Adlandirilmis-Varlik-Tanima-NER.git
+cd Mamografi-Raporlarinda-Adlandirilmis-Varlik-Tanima-NER
 ```
 
 
